@@ -18,6 +18,6 @@ The installlation pacakages you will need to use for this project are Pandas, Nu
 ---
 
 ## Licensing & Copyright
---
+---
 
 (c) Cathryn Amabibi - Brand Strategy Consulting Limited, 2021.
